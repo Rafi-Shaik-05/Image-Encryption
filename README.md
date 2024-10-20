@@ -1,1 +1,1 @@
-# prodigy_cs_2
+# Image Encryption
